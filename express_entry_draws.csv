@@ -1,0 +1,455 @@
+round_number,date,round_type,category,invitations,crs_cutoff,tie_breaking_rule,ircc_round_name,eligible_programs
+453,2026-10-28,Category-based,Transport occupations,150,477,2026-06-04T21:48:22Z,"Transport Occupations, 2026-Version 2","Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+452,2026-10-27,Category-based,French language proficiency,5000,407,2026-07-13T19:22:00Z,French-Language proficiency 2026-Version 2,"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+451,2026-10-26,Program-specific,Provincial Nominee Program,792,761,2026-04-03T18:00:26Z,Provincial Nominee Program,Provincial Nominee Program
+450,2026-10-16,Category-based,French language proficiency,5000,435,2026-10-06T21:31:22Z,French-Language proficiency 2026-Version 2,"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+449,2026-10-15,Program-specific,Canadian Experience Class,2500,519,2026-09-21T19:00:47Z,Canadian Experience Class,Canadian Experience Class
+448,2026-10-13,Program-specific,Provincial Nominee Program,752,772,2026-07-15T13:57:33,Provincial Nominee Program,Provincial Nominee Program
+447,2026-10-01,Category-based,Trade occupations,3500,476,2026-05-28T16:55:23Z,"Trades Occupations, 2026-Version 3","Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+446,2026-09-29,Program-specific,Canadian Experience Class,2000,518,2026-02-13T20:48:08Z,Canadian Experience Class,Canadian Experience Class
+445,2026-09-28,Program-specific,Provincial Nominee Program,733,725,2026-09-17T01:36:17Z,Provincial Nominee Program,Provincial Nominee Program
+444,2026-09-16,Category-based,Senior managers with Canadian work experience,250,389,2026-09-01T23:05:13Z,"Senior managers with Canadian Work Experience, 2026-Version 1","Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+443,2026-09-15,Program-specific,Canadian Experience Class,2000,519,2026-03-26T00:16:39Z,Canadian Experience Class,Canadian Experience Class
+442,2026-09-14,Program-specific,Provincial Nominee Program,576,734,2026-08-29T21:39:50Z,Provincial Nominee Program,Provincial Nominee Program
+441,2026-09-04,Category-based,Healthcare and social services occupations,3500,475,2026-05-26T00:26:14Z,"Healthcare and Social Services Occupations, 2026-Version 3","Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+440,2026-09-03,Category-based,Physicians with Canadian work experience,229,198,2026-08-06T19:40:38Z,"Physicians with Canadian Work Experience, 2026-Version 1","Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+439,2026-09-01,Program-specific,Canadian Experience Class,2000,521,2026-08-18T03:24:13Z,Canadian Experience Class,Canadian Experience Class
+438,2026-08-31,Program-specific,Provincial Nominee Program,562,697,2026-04-12T04:32:26Z,Provincial Nominee Program,Provincial Nominee Program
+437,2026-08-19,Category-based,French language proficiency,5000,382,2026-03-01T18:34:05Z,French-Language proficiency 2026-Version 2,"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+436,2026-08-18,Program-specific,Canadian Experience Class,1000,523,2026-08-17T22:09:00Z,Canadian Experience Class,Canadian Experience Class
+435,2026-08-17,Program-specific,Provincial Nominee Program,442,760,2026-08-07T18:01:56Z,Provincial Nominee Program,Provincial Nominee Program
+434,2026-08-07,Category-based,Transport occupations,300,470,2025-10-11T14:55:49Z,"Transport Occupations, 2026-Version 2","Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+433,2026-08-06,Category-based,French language proficiency,5000,391,2026-03-18T23:32:40Z,French-Language proficiency 2026-Version 2,"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+432,2026-08-05,Program-specific,Canadian Experience Class,3000,516,2026-07-03T21:35:13Z,Canadian Experience Class,Canadian Experience Class
+431,2026-08-04,Program-specific,Provincial Nominee Program,507,768,2026-05-15T15:58:19Z,Provincial Nominee Program,Provincial Nominee Program
+430,2026-07-23,Category-based,Skilled military recruits,4,368,2026-06-02T20:11:26Z,"Skilled Military Recruits, 2026-Version 1","Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+429,2026-07-22,Category-based,French language proficiency,5000,399,2025-11-19T21:21:56Z,French-Language proficiency 2026-Version 2,"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+428,2026-07-21,Program-specific,Canadian Experience Class,2000,516,2026-05-26T17:33:03Z,Canadian Experience Class,Canadian Experience Class
+427,2026-07-20,Program-specific,Provincial Nominee Program,511,744,2026-05-26T18:11:36Z,Provincial Nominee Program,Provincial Nominee Program
+426,2026-07-10,Category-based,Senior managers with Canadian work experience,500,392,2026-03-15T01:46:05Z,"Senior managers with Canadian Work Experience, 2026-Version 1","Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+425,2026-07-09,Category-based,French language proficiency,5000,420,2026-05-15T08:04:00Z,French-Language proficiency 2026-Version 2,"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+424,2026-07-07,Program-specific,Canadian Experience Class,2000,517,2025-12-29T17:49:27Z,Canadian Experience Class,Canadian Experience Class
+423,2026-07-06,Program-specific,Provincial Nominee Program,534,708,2026-06-04T14:49:51Z,Provincial Nominee Program,Provincial Nominee Program
+422,2026-06-25,Category-based,Healthcare and social services occupations,4000,475,2026-05-21T12:14:09Z,"Healthcare and Social Services Occupations, 2026-Version 3","Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+421,2026-06-24,Category-based,Physicians with Canadian work experience,271,223,2026-05-31T18:13:49Z,"Physicians with Canadian Work Experience, 2026-Version 1","Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+420,2026-06-23,Program-specific,Canadian Experience Class,4000,516,2026-04-14T00:03:10Z,Canadian Experience Class,Canadian Experience Class
+419,2026-06-22,Program-specific,Provincial Nominee Program,955,730,2026-03-09T01:02:28Z,Provincial Nominee Program,Provincial Nominee Program
+418,2026-05-28,Category-based,French language proficiency,4500,409,2026-04-29T22:20:00Z,French-Language proficiency 2026-Version 2,"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+417,2026-05-27,Program-specific,Canadian Experience Class,3000,518,2026-04-30T03:16:01Z,Canadian Experience Class,Canadian Experience Class
+416,2026-05-25,Program-specific,Provincial Nominee Program,334,805,2025-10-16T18:16:33Z,Provincial Nominee Program,Provincial Nominee Program
+415,2026-05-11,Program-specific,Provincial Nominee Program,380,798,2026-01-07T05:23:31Z,Provincial Nominee Program,Provincial Nominee Program
+414,2026-04-29,Category-based,French language proficiency,4000,400,2026-04-07T20:13:59Z,French-Language proficiency 2026-Version 2,"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+413,2026-04-28,Program-specific,Canadian Experience Class,2000,514,2025-09-24T14:18:43Z,Canadian Experience Class,Canadian Experience Class
+412,2026-04-27,Program-specific,Provincial Nominee Program,473,795,2026-04-13T23:10:05Z,Provincial Nominee Program,Provincial Nominee Program
+411,2026-04-15,Category-based,French language proficiency,4000,419,2025-11-14T07:14:25Z,French-Language proficiency 2026-Version 2,"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+410,2026-04-14,Program-specific,Canadian Experience Class,2000,515,2025-06-10T02:46:26Z,Canadian Experience Class,Canadian Experience Class
+409,2026-04-13,Program-specific,Provincial Nominee Program,324,786,2025-11-19T18:53:59Z,Provincial Nominee Program,Provincial Nominee Program
+408,2026-04-02,Category-based,Trade occupations,3000,477,2026-02-14T20:53:54Z,"Trades Occupations, 2026-Version 3","Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+407,2026-03-31,Program-specific,Canadian Experience Class,2250,509,2026-03-18T08:27:11Z,Canadian Experience Class,Canadian Experience Class
+406,2026-03-30,Program-specific,Provincial Nominee Program,356,802,2026-02-12T03:54:03Z,Provincial Nominee Program,Provincial Nominee Program
+405,2026-03-18,Category-based,French language proficiency,4000,393,2025-12-29T12:47:31Z,French-Language proficiency 2026-Version 2,"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+404,2026-03-17,Program-specific,Canadian Experience Class,4000,507,2025-05-11T18:57:31Z,Canadian Experience Class,Canadian Experience Class
+403,2026-03-16,Program-specific,Provincial Nominee Program,362,742,2025-10-05T20:35:25Z,Provincial Nominee Program,Provincial Nominee Program
+402,2026-03-05,Category-based,Senior managers with Canadian work experience,250,429,2025-08-19T15:10:18Z,"Senior managers with Canadian Work Experience, 2026-Version 1","Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+401,2026-03-04,Category-based,French language proficiency,5500,397,2025-10-10T18:18:20Z,French-Language proficiency 2026-Version 2,"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+400,2026-03-03,Program-specific,Canadian Experience Class,4000,508,2025-06-24T22:35:48Z,Canadian Experience Class,Canadian Experience Class
+399,2026-03-02,Program-specific,Provincial Nominee Program,264,710,2025-08-07T18:02:56Z,Provincial Nominee Program,Provincial Nominee Program
+398,2026-02-20,Category-based,Healthcare and social services occupations,4000,467,2025-12-09T18:22:06Z,"Healthcare and Social Services Occupations, 2026-Version 3","Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+397,2026-02-19,Category-based,Physicians with Canadian work experience,391,169,2026-01-03T03:25:14Z,"Physicians with Canadian Work Experience, 2026-Version 1","Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+396,2026-02-17,Program-specific,Canadian Experience Class,6000,508,2025-03-16T09:35:59Z,Canadian Experience Class,Canadian Experience Class
+395,2026-02-16,Program-specific,Provincial Nominee Program,279,789,2025-09-05T00:59:13Z,Provincial Nominee Program,Provincial Nominee Program
+394,2026-02-06,Category-based,French language proficiency,8500,400,2026-02-03T11:11:44Z,French-Language proficiency 2026-Version 2,"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+393,2026-02-03,Program-specific,Provincial Nominee Program,423,749,2025-12-16T22:30:36Z,Provincial Nominee Program,Provincial Nominee Program
+392,2026-01-21,Program-specific,Canadian Experience Class,6000,509,2025-10-29T04:35:24Z,Canadian Experience Class,Canadian Experience Class
+391,2026-01-20,Program-specific,Provincial Nominee Program,681,746,2025-11-19T04:09:11Z,Provincial Nominee Program,Provincial Nominee Program
+390,2026-01-07,Program-specific,Canadian Experience Class,8000,511,2025-06-10T15:59:25Z,Canadian Experience Class,Canadian Experience Class
+389,2026-01-05,Program-specific,Provincial Nominee Program,574,711,2025-10-06T01:54:31Z,Provincial Nominee Program,Provincial Nominee Program
+388,2025-12-17,Category-based,French language proficiency,6000,399,2025-08-24T23:43:05Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+387,2025-12-16,Program-specific,Canadian Experience Class,5000,515,2025-09-09T18:58:59Z,Canadian Experience Class,Canadian Experience Class
+386,2025-12-15,Program-specific,Provincial Nominee Program,399,731,2025-10-18T07:18:52Z,Provincial Nominee Program,Provincial Nominee Program
+385,2025-12-11,Category-based,Healthcare and social services occupations,1000,476,2025-11-26T07:44:30Z,Healthcare and social services occupations (Version 2),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+384,2025-12-10,Program-specific,Canadian Experience Class,6000,520,2025-07-15T17:30:33Z,Canadian Experience Class,Canadian Experience Class
+383,2025-12-08,Program-specific,Provincial Nominee Program,1123,729,2025-03-05T05:10:48,Provincial Nominee Program,Provincial Nominee Program
+382,2025-11-28,Category-based,French language proficiency,6000,408,2025-05-26T12:28:38Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+381,2025-11-26,Program-specific,Canadian Experience Class,1000,531,2025-10-08T19:02:26Z,Canadian Experience Class,Canadian Experience Class
+380,2025-11-25,Program-specific,Provincial Nominee Program,777,699,2025-09-06T01:16:22Z,Provincial Nominee Program,Provincial Nominee Program
+379,2025-11-14,Category-based,Healthcare and social services occupations,3500,462,2024-12-02T22:19:41Z,Healthcare and social services occupations (Version 2),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+378,2025-11-12,Program-specific,Canadian Experience Class,1000,533,2025-10-17T03:39:05Z,Canadian Experience Class,Canadian Experience Class
+377,2025-11-10,Program-specific,Provincial Nominee Program,714,738,2025-02-22T02:12:01Z,Provincial Nominee Program,Provincial Nominee Program
+376,2025-10-29,Category-based,French language proficiency,6000,416,2025-09-08T15:27:09Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+375,2025-10-28,Program-specific,Canadian Experience Class,1000,533,2025-03-21T04:16:27Z,Canadian Experience Class,Canadian Experience Class
+374,2025-10-27,Program-specific,Provincial Nominee Program,302,761,2025-09-26T02:14:06Z,Provincial Nominee Program,Provincial Nominee Program
+373,2025-10-15,Category-based,Healthcare and social services occupations,2500,472,2025-05-12T23:17:30Z,Healthcare and social services occupations (Version 2),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+372,2025-10-14,Program-specific,Provincial Nominee Program,345,778,2025-07-17T19:58:49Z,Provincial Nominee Program,Provincial Nominee Program
+371,2025-10-06,Category-based,French language proficiency,4500,432,2025-06-13T19:07:01Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+370,2025-10-01,Program-specific,Canadian Experience Class,1000,534,2025-02-21T04:01:57Z,Canadian Experience Class,Canadian Experience Class
+369,2025-09-29,Program-specific,Provincial Nominee Program,291,855,2025-04-08T01:25:29Z,Provincial Nominee Program,Provincial Nominee Program
+368,2025-09-18,Category-based,Trade occupations,1250,505,2024-11-05T22:36:09Z,Trade occupations (Version 2),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+367,2025-09-17,Category-based,Education occupations,2500,462,2025-07-09T04:24:19Z,Education occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+366,2025-09-15,Program-specific,Provincial Nominee Program,228,746,2025-03-31T13:39:06Z,Provincial Nominee Program,Provincial Nominee Program
+365,2025-09-04,Category-based,French language proficiency,4500,446,2025-06-16T07:21:06Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+364,2025-09-03,Program-specific,Canadian Experience Class,1000,534,2025-08-14T08:28:38Z,Canadian Experience Class,Canadian Experience Class
+363,2025-09-02,Program-specific,Provincial Nominee Program,249,772,2025-08-28T19:19:18Z,Provincial Nominee Program,Provincial Nominee Program
+362,2025-08-19,Category-based,Healthcare and social services occupations,2500,470,2025-04-23T20:08:53Z,Healthcare and social services occupations (Version 2),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+361,2025-08-18,Program-specific,Provincial Nominee Program,192,800,2025-02-11T19:17:09Z,Provincial Nominee Program,Provincial Nominee Program
+360,2025-08-08,Category-based,French language proficiency,2500,481,2025-07-18T05:16:06Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+359,2025-08-07,Program-specific,Canadian Experience Class,1000,534,2025-08-03T06:22:02Z,Canadian Experience Class,Canadian Experience Class
+358,2025-08-06,Program-specific,Provincial Nominee Program,225,739,2025-04-23T06:35:51Z,Provincial Nominee Program,Provincial Nominee Program
+357,2025-07-22,Category-based,Healthcare and social services occupations,4000,475,2025-03-13T13:08:29Z,Healthcare and social services occupations (Version 2),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+356,2025-07-21,Program-specific,Provincial Nominee Program,202,788,2025-06-05T23:50:45Z,Provincial Nominee Program,Provincial Nominee Program
+355,2025-07-08,Program-specific,Canadian Experience Class,3000,518,2024-10-02T01:48:36Z,Canadian Experience Class,Canadian Experience Class
+354,2025-07-07,Program-specific,Provincial Nominee Program,356,750,2025-03-19T04:09:09Z,Provincial Nominee Program,Provincial Nominee Program
+353,2025-06-26,Program-specific,Canadian Experience Class,3000,521,2024-11-21T15:56:13Z,Canadian Experience Class,Canadian Experience Class
+352,2025-06-23,Program-specific,Provincial Nominee Program,503,742,2025-05-30T21:44:57Z,Provincial Nominee Program,Provincial Nominee Program
+351,2025-06-12,Program-specific,Canadian Experience Class,3000,529,2024-09-28T18:06:46Z,Canadian Experience Class,Canadian Experience Class
+350,2025-06-10,Program-specific,Provincial Nominee Program,125,784,2024-09-12T18:12:15Z,Provincial Nominee Program,Provincial Nominee Program
+349,2025-06-04,Category-based,Healthcare and social services occupations,500,504,2025-03-31T06:47:23Z,Healthcare and social services occupations (Version 2),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+348,2025-06-02,Program-specific,Provincial Nominee Program,277,726,2024-09-24T15:46:19Z,Provincial Nominee Program,Provincial Nominee Program
+347,2025-05-13,Program-specific,Canadian Experience Class,500,547,2024-05-21T17:26:27Z,Canadian Experience Class,Canadian Experience Class
+346,2025-05-12,Program-specific,Provincial Nominee Program,511,706,2025-03-04T22:35:42Z,Provincial Nominee Program,Provincial Nominee Program
+345,2025-05-02,Category-based,Healthcare and social services occupations,500,510,2024-07-21T04:31:17Z,Healthcare and social services occupations (Version 2),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+344,2025-05-01,Category-based,Education occupations,1000,479,2024-08-10T10:35:55Z,Education occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+343,2025-04-28,Program-specific,Provincial Nominee Program,421,727,2024-09-09T17:11:19Z,Provincial Nominee Program,Provincial Nominee Program
+342,2025-04-14,Program-specific,Provincial Nominee Program,825,764,2024-08-17T18:35:52Z,Provincial Nominee Program,Provincial Nominee Program
+341,2025-03-21,Category-based,French language proficiency,7500,379,2025-03-06T02:53:27Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+340,2025-03-17,Program-specific,Provincial Nominee Program,536,736,2025-03-12T14:02:14Z,Provincial Nominee Program,Provincial Nominee Program
+339,2025-03-06,Category-based,French language proficiency,4500,410,2025-02-11T07:47:29Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+338,2025-03-03,Program-specific,Provincial Nominee Program,725,667,2024-06-05T18:25:22Z,Provincial Nominee Program,Provincial Nominee Program
+337,2025-02-19,Category-based,French language proficiency,6500,428,2025-02-10T16:41:38Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+336,2025-02-17,Program-specific,Provincial Nominee Program,646,750,2024-07-23T17:41:11Z,Provincial Nominee Program,Provincial Nominee Program
+335,2025-02-05,Program-specific,Canadian Experience Class,4000,521,2024-11-14T02:52:14Z,Canadian Experience Class,Canadian Experience Class
+334,2025-02-04,Program-specific,Provincial Nominee Program,455,802,2024-12-07T19:39:25Z,Provincial Nominee Program,Provincial Nominee Program
+333,2025-01-23,Program-specific,Canadian Experience Class,4000,527,2024-07-23T07:06:43Z,Canadian Experience Class,Canadian Experience Class
+332,2025-01-08,Program-specific,Canadian Experience Class,1350,542,2024-12-07T01:10:06Z,Canadian Experience Class,Canadian Experience Class
+331,2025-01-07,Program-specific,Provincial Nominee Program,471,793,2024-11-25T16:57:27Z,Provincial Nominee Program,Provincial Nominee Program
+330,2024-12-16,Program-specific,Provincial Nominee Program,1085,727,2024-09-18T13:39:10Z,Provincial Nominee Program,Provincial Nominee Program
+329,2024-12-03,Category-based,French language proficiency,800,466,2024-11-26T02:44:59Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+328,2024-12-02,Program-specific,Provincial Nominee Program,676,705,2024-11-27T18:15:17Z,Provincial Nominee Program,Provincial Nominee Program
+327,2024-11-20,Category-based,Healthcare and social services occupations,3000,463,2024-10-21T16:12:39Z,Healthcare occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+326,2024-11-19,Program-specific,Canadian Experience Class,400,539,2024-07-08T01:41:37Z,Canadian Experience Class,Canadian Experience Class
+325,2024-11-18,Program-specific,Provincial Nominee Program,174,816,2024-08-28T05:12:34Z,Provincial Nominee Program,Provincial Nominee Program
+324,2024-11-15,Category-based,French language proficiency,800,478,2024-11-07T13:12:03Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+323,2024-11-13,Program-specific,Canadian Experience Class,400,547,2024-04-10T03:58:05Z,Canadian Experience Class,Canadian Experience Class
+322,2024-11-12,Program-specific,Provincial Nominee Program,733,812,2024-03-02T01:58:34Z,Provincial Nominee Program,Provincial Nominee Program
+321,2024-10-23,Category-based,Trade occupations,1800,433,2024-03-12T14:30:36Z,Trade occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+320,2024-10-22,Program-specific,Canadian Experience Class,400,539,2024-10-19T21:53:18Z,Canadian Experience Class,Canadian Experience Class
+319,2024-10-21,Program-specific,Provincial Nominee Program,648,791,2024-08-13T20:04:52Z,Provincial Nominee Program,Provincial Nominee Program
+318,2024-10-10,Category-based,French language proficiency,1000,444,2024-09-27T18:56:32Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+317,2024-10-09,Program-specific,Canadian Experience Class,500,539,2024-02-20T02:57:40Z,Canadian Experience Class,Canadian Experience Class
+316,2024-10-07,Program-specific,Provincial Nominee Program,1613,743,2024-03-22T18:36:54Z,Provincial Nominee Program,Provincial Nominee Program
+315,2024-09-19,Program-specific,Canadian Experience Class,4000,509,2023-11-06T20:17:35Z,Canadian Experience Class,Canadian Experience Class
+314,2024-09-13,Category-based,French language proficiency,1000,446,2024-08-28T17:07:19Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+313,2024-09-09,Program-specific,Provincial Nominee Program,911,732,2024-03-13T19:56:16Z,Provincial Nominee Program,Provincial Nominee Program
+312,2024-08-27,Program-specific,Canadian Experience Class,3300,507,2024-04-17T20:11:20Z,Canadian Experience Class,Canadian Experience Class
+311,2024-08-26,Program-specific,Provincial Nominee Program,1121,694,2024-08-03T18:54:27Z,Provincial Nominee Program,Provincial Nominee Program
+310,2024-08-15,Category-based,French language proficiency,2000,394,2024-07-07T09:46:10Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+309,2024-08-14,Program-specific,Canadian Experience Class,3200,509,2024-03-01T19:23:21Z,Canadian Experience Class,Canadian Experience Class
+308,2024-08-13,Program-specific,Provincial Nominee Program,763,690,2024-04-26T10:59:30Z,Provincial Nominee Program,Provincial Nominee Program
+307,2024-07-31,Program-specific,Canadian Experience Class,5000,510,2024-06-30T20:39:14Z,Canadian Experience Class,Canadian Experience Class
+306,2024-07-30,Program-specific,Provincial Nominee Program,964,686,2024-05-27T07:07:21Z,Provincial Nominee Program,Provincial Nominee Program
+305,2024-07-18,Category-based,French language proficiency,1800,400,2024-03-08T19:51:40Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+304,2024-07-17,Program-specific,Canadian Experience Class,6300,515,2024-02-03T13:01:06Z,Canadian Experience Class,Canadian Experience Class
+303,2024-07-16,Program-specific,Provincial Nominee Program,1391,670,2024-05-04T13:27:31Z,Provincial Nominee Program,Provincial Nominee Program
+302,2024-07-08,Category-based,French language proficiency,3200,420,2024-05-30T03:37:43Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+301,2024-07-05,Category-based,Healthcare and social services occupations,3750,445,2024-05-07T21:27:04Z,Healthcare occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+300,2024-07-04,Category-based,Trade occupations,1800,436,2023-07-16T15:44:59Z,Trade occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+299,2024-07-02,Program-specific,Provincial Nominee Program,920,739,2024-02-02T11:38:43Z,Provincial Nominee Program,Provincial Nominee Program
+298,2024-06-19,Program-specific,Provincial Nominee Program,1499,663,2024-01-19T10:10:40Z,Provincial Nominee Program,Provincial Nominee Program
+297,2024-05-31,Program-specific,Canadian Experience Class,3000,522,2024-03-19T18:58:58Z,Canadian Experience Class,Canadian Experience Class
+296,2024-05-30,Program-specific,Provincial Nominee Program,2985,676,2024-01-19T18:32:21Z,Provincial Nominee Program,Provincial Nominee Program
+295,2024-04-24,Category-based,French language proficiency,1400,410,2024-04-07T02:06:46Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+294,2024-04-23,General,General (all programs),2095,529,2023-11-08T17:50:29Z,General,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+293,2024-04-11,Category-based,STEM occupations,4500,491,2024-02-25T11:55:12Z,STEM occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+292,2024-04-10,General,General (all programs),1280,549,2024-03-21T03:37:24Z,General,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+291,2024-03-26,Category-based,French language proficiency,1500,388,2024-03-10T20:06:26Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+290,2024-03-25,General,General (all programs),1980,524,2024-02-25T14:42:38Z,General,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+289,2024-03-13,Category-based,Transport occupations,975,430,2023-07-31T13:27:26Z,Transport occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+288,2024-03-12,General,General (all programs),2850,525,2023-11-01T17:08:51Z,General,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+287,2024-02-29,Category-based,French language proficiency,2500,336,2024-01-18T09:15:46Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+286,2024-02-28,General,General (all programs),1470,534,2024-01-16T03:51:05Z,General,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+285,2024-02-16,Category-based,Agriculture and agri-food occupations,150,437,2024-01-29T03:32:58Z,Agriculture and agri-food occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+284,2024-02-14,Category-based,Healthcare and social services occupations,3500,422,2024-01-30T02:39:54Z,Healthcare occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+283,2024-02-13,General,General (all programs),1490,535,2024-02-11T15:26:56Z,General,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+282,2024-02-01,Category-based,French language proficiency,7000,365,2023-09-08T09:47:27Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+281,2024-01-31,General,General (all programs),730,541,2023-07-15T10:52:08Z,General,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+280,2024-01-23,General,General (all programs),1040,543,2024-01-21T07:43:47Z,General,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+279,2024-01-10,General,General (all programs),1510,546,2023-12-31T18:23:22Z,General,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+278,2023-12-21,Category-based,Agriculture and agri-food occupations,400,386,2023-07-06T05:44:14Z,Agriculture and agri-food occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+277,2023-12-20,Category-based,Transport occupations,670,435,2023-08-30T17:30:21Z,Transport occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+276,2023-12-19,Category-based,Trade occupations,1000,425,2023-11-04T11:16:58Z,Trade occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+275,2023-12-18,General,General (all programs),1325,542,2023-11-06T14:40:23Z,General,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+274,2023-12-08,Category-based,STEM occupations,5900,481,2023-09-07T09:24:49Z,STEM occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+273,2023-12-07,Category-based,French language proficiency,1000,470,2023-10-03T04:45:27Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+272,2023-12-06,General,General (all programs),4750,561,2023-11-08T06:00:13Z,General,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+271,2023-10-26,Category-based,Healthcare and social services occupations,3600,431,2023-05-24T19:47:51Z,Healthcare occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+270,2023-10-25,Category-based,French language proficiency,300,486,2023-09-30T04:22:17Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+269,2023-10-24,Program-specific,Provincial Nominee Program,1548,776,2023-07-07T07:28:57Z,Provincial Nominee Program,Provincial Nominee Program
+268,2023-10-10,General,General (all programs),3725,500,2023-10-02T15:25:30Z,No Program Specified,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+267,2023-09-28,Category-based,Agriculture and agri-food occupations,600,354,2023-06-12T10:23:21Z,Agriculture and agri-food occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+266,2023-09-27,Category-based,French language proficiency,500,472,2023-08-16T09:00:14Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+265,2023-09-26,General,General (all programs),3000,504,2023-09-11T20:24:18Z,No Program Specified,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+264,2023-09-20,Category-based,Transport occupations,1000,435,2023-06-17T06:44:01Z,Transport occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+263,2023-09-19,General,General (all programs),3200,531,2023-09-12T12:16:31Z,No Program Specified,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+262,2023-08-15,General,General (all programs),4300,496,2023-07-04T19:36:18Z,No Program Specified,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+261,2023-08-03,Category-based,Trade occupations,1500,388,2023-06-07T07:03:08Z,Trade occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+260,2023-08-02,Category-based,French language proficiency,800,435,2023-07-31T09:57:30Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+259,2023-08-01,General,General (all programs),2000,517,2023-06-30T11:45:05Z,No Program Specified,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+258,2023-07-12,Category-based,French language proficiency,3800,375,2023-06-15T23:49:05,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+257,2023-07-11,General,General (all programs),800,505,2022-10-01T06:13:05Z,No Program Specified,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+256,2023-07-07,Category-based,French language proficiency,2300,439,2023-01-20T17:18:32Z,French language proficiency (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+255,2023-07-06,Category-based,Healthcare and social services occupations,1500,463,2023-06-19T06:41:05Z,Healthcare occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+254,2023-07-05,Category-based,STEM occupations,500,486,2022-11-23T00:01:29Z,STEM occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+253,2023-07-04,General,General (all programs),700,511,2023-07-01T09:31:32Z,No Program Specified,"Federal Skilled Worker Program, Canadian Experience Class, Federal Skilled Trades Program and Provincial Nominee Program"
+252,2023-06-28,Category-based,Healthcare and social services occupations,500,476,2022-11-12T12:47:27Z,Healthcare occupations (Version 1),"Federal Skilled Worker Program, Canadian Experience Class and Federal Skilled Trades Program"
+251,2023-06-27,General,General (all programs),4300,486,2023-06-21T00:57:04Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+250,2023-06-08,General,General (all programs),4800,486,2023-05-19T14:04:00Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+249,2023-05-24,General,General (all programs),4800,488,2022-12-26T01:12:48Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+248,2023-05-10,Program-specific,Provincial Nominee Program,589,691,2023-03-08T16:42:17Z,Provincial Nominee Program,Provincial Nominee Program
+247,2023-04-26,General,General (all programs),3500,483,2023-04-22T19:46:58Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+246,2023-04-12,General,General (all programs),3500,486,2022-07-19T11:05:24Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+245,2023-03-29,General,General (all programs),7000,481,2023-02-14T07:35:00Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+244,2023-03-23,General,General (all programs),7000,484,2022-05-19T06:48:41Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+243,2023-03-15,General,General (all programs),7000,490,2023-02-16T10:33:06Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+242,2023-03-01,Program-specific,Provincial Nominee Program,667,748,2022-12-12T10:48:12Z,Provincial Nominee Program,Provincial Nominee Program
+241,2023-02-15,Program-specific,Provincial Nominee Program,699,791,2023-02-08T18:09:01Z,Provincial Nominee Program,Provincial Nominee Program
+240,2023-02-02,Program-specific,Federal Skilled Worker,3300,489,2022-03-29T16:09:00Z,Federal Skilled Worker,Federal Skilled Worker
+239,2023-02-01,Program-specific,Provincial Nominee Program,893,733,2022-12-09T10:49:57Z,Provincial Nominee Program,Provincial Nominee Program
+238,2023-01-18,General,General (all programs),5500,490,2022-11-24T21:14:59Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+237,2023-01-11,General,General (all programs),5500,507,2022-12-06T11:00:07Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+236,2022-11-23,General,General (all programs),4750,491,2022-10-13T11:22:17Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+235,2022-11-09,General,General (all programs),4750,494,2022-06-06T20:48:23Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+234,2022-10-26,General,General (all programs),4750,496,2022-05-09T09:04:20Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+233,2022-10-12,General,General (all programs),4250,500,2022-10-10T17:10:53Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+232,2022-09-28,General,General (all programs),3750,504,2022-05-02T17:17:32Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+231,2022-09-14,General,General (all programs),3250,510,2022-01-08T10:24:52Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+230,2022-08-31,General,General (all programs),2750,516,2022-04-16T18:24:41Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+229,2022-08-17,General,General (all programs),2250,525,2021-12-28T11:03:15Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+228,2022-08-03,General,General (all programs),2000,533,2022-01-06T14:29:50Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+227,2022-07-20,General,General (all programs),1750,542,2021-12-30T15:29:35Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+226,2022-07-06,General,General (all programs),1500,557,2021-11-13T02:20:46Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+225,2022-06-22,Program-specific,Provincial Nominee Program,636,752,2022-04-19T13:45:45Z,Provincial Nominee Program,Provincial Nominee Program
+224,2022-06-08,Program-specific,Provincial Nominee Program,932,796,2021-10-18T17:13:17Z,Provincial Nominee Program,Provincial Nominee Program
+223,2022-05-25,Program-specific,Provincial Nominee Program,590,741,2022-02-02T12:29:53Z,Provincial Nominee Program,Provincial Nominee Program
+222,2022-05-11,Program-specific,Provincial Nominee Program,545,753,2021-12-15T20:32:57Z,Provincial Nominee Program,Provincial Nominee Program
+221,2022-04-27,Program-specific,Provincial Nominee Program,829,772,2022-03-24T08:00:50Z,Provincial Nominee Program,Provincial Nominee Program
+220,2022-04-13,Program-specific,Provincial Nominee Program,787,782,2022-04-07T16:31:21Z,Provincial Nominee Program,Provincial Nominee Program
+219,2022-03-30,Program-specific,Provincial Nominee Program,919,785,2021-11-15T20:23:16Z,Provincial Nominee Program,Provincial Nominee Program
+218,2022-03-16,Program-specific,Provincial Nominee Program,924,754,2022-02-10T14:35:27Z,Provincial Nominee Program,Provincial Nominee Program
+217,2022-03-02,Program-specific,Provincial Nominee Program,1047,761,2022-01-05T14:22:03Z,Provincial Nominee Program,Provincial Nominee Program
+216,2022-02-16,Program-specific,Provincial Nominee Program,1082,710,2021-10-07T11:36:55Z,Provincial Nominee Program,Provincial Nominee Program
+215,2022-02-02,Program-specific,Provincial Nominee Program,1070,674,2021-02-18T05:05:15Z,Provincial Nominee Program,Provincial Nominee Program
+214,2022-01-19,Program-specific,Provincial Nominee Program,1036,745,2021-07-05T13:12:05Z,Provincial Nominee Program,Provincial Nominee Program
+213,2022-01-05,Program-specific,Provincial Nominee Program,392,808,2021-03-04T16:57:50Z,Provincial Nominee Program,Provincial Nominee Program
+212,2021-12-22,Program-specific,Provincial Nominee Program,746,720,2021-11-24T16:56:42Z,Provincial Nominee Program,Provincial Nominee Program
+211,2021-12-10,Program-specific,Provincial Nominee Program,1032,698,2021-09-10T16:43:17Z,Provincial Nominee Program,Provincial Nominee Program
+210,2021-11-24,Program-specific,Provincial Nominee Program,613,737,2021-06-22T20:19:59Z,Provincial Nominee Program,Provincial Nominee Program
+209,2021-11-10,Program-specific,Provincial Nominee Program,775,685,2021-08-12T20:05:46Z,Provincial Nominee Program,Provincial Nominee Program
+208,2021-10-27,Program-specific,Provincial Nominee Program,681,744,2021-10-07T16:38:21Z,Provincial Nominee Program,Provincial Nominee Program
+207,2021-10-13,Program-specific,Provincial Nominee Program,681,720,2021-03-16T07:53:28Z,Provincial Nominee Program,Provincial Nominee Program
+206,2021-09-29,Program-specific,Provincial Nominee Program,761,742,2021-07-29T09:45:29Z,Provincial Nominee Program,Provincial Nominee Program
+205,2021-09-15,Program-specific,Provincial Nominee Program,521,732,2021-02-24T10:46:54Z,Provincial Nominee Program,Provincial Nominee Program
+204,2021-09-14,Program-specific,Canadian Experience Class,2000,462,2021-09-11T10:55:43Z,Canadian Experience Class,Canadian Experience Class
+203,2021-09-01,Program-specific,Provincial Nominee Program,635,764,2021-04-12T12:21:45Z,Provincial Nominee Program,Provincial Nominee Program
+202,2021-08-19,Program-specific,Canadian Experience Class,3000,403,2021-08-01T10:13:57Z,Canadian Experience Class,Canadian Experience Class
+201,2021-08-18,Program-specific,Provincial Nominee Program,463,751,2021-04-13T16:29:29Z,Provincial Nominee Program,Provincial Nominee Program
+200,2021-08-05,Program-specific,Canadian Experience Class,3000,404,2021-08-03T05:39:26Z,Canadian Experience Class,Canadian Experience Class
+199,2021-08-04,Program-specific,Provincial Nominee Program,512,760,2021-03-05T22:38:31Z,Provincial Nominee Program,Provincial Nominee Program
+198,2021-07-22,Program-specific,Canadian Experience Class,4500,357,2021-02-14T09:04:15Z,Canadian Experience Class,Canadian Experience Class
+197,2021-07-21,Program-specific,Provincial Nominee Program,462,734,2021-04-11T10:56:32Z,Provincial Nominee Program,Provincial Nominee Program
+196,2021-07-08,Program-specific,Canadian Experience Class,4500,369,2021-06-10T22:46:37Z,Canadian Experience Class,Canadian Experience Class
+195,2021-07-07,Program-specific,Provincial Nominee Program,627,760,2021-06-14T07:44:05Z,Provincial Nominee Program,Provincial Nominee Program
+194,2021-06-24,Program-specific,Canadian Experience Class,6000,357,2021-02-17T10:15:50Z,Canadian Experience Class,Canadian Experience Class
+193,2021-06-23,Program-specific,Provincial Nominee Program,1002,742,2021-02-18T04:04:56Z,Provincial Nominee Program,Provincial Nominee Program
+192,2021-06-10,Program-specific,Canadian Experience Class,6000,368,2021-04-28T05:45:14Z,Canadian Experience Class,Canadian Experience Class
+191,2021-06-09,Program-specific,Provincial Nominee Program,940,711,2021-02-16T09:06:30Z,Provincial Nominee Program,Provincial Nominee Program
+190,2021-05-31,Program-specific,Canadian Experience Class,5956,380,2021-05-28T14:45:22Z,Canadian Experience Class,Canadian Experience Class
+189,2021-05-26,Program-specific,Provincial Nominee Program,500,713,2021-04-06T09:50:14Z,Provincial Nominee Program,Provincial Nominee Program
+188,2021-05-20,Program-specific,Canadian Experience Class,1842,397,2021-04-24T12:09:24Z,Canadian Experience Class,Canadian Experience Class
+187,2021-05-13,Program-specific,Canadian Experience Class,4147,401,2021-04-29T11:48:14Z,Canadian Experience Class,Canadian Experience Class
+186,2021-05-12,Program-specific,Provincial Nominee Program,557,752,2021-04-29T10:18:12Z,Provincial Nominee Program,Provincial Nominee Program
+185,2021-04-29,Program-specific,Canadian Experience Class,6000,400,2021-04-24T15:24:49Z,Canadian Experience Class,Canadian Experience Class
+184,2021-04-28,Program-specific,Provincial Nominee Program,381,717,2021-03-16T21:20:50Z,Provincial Nominee Program,Provincial Nominee Program
+183,2021-04-16,Program-specific,Canadian Experience Class,6000,417,2021-03-01T19:53:46Z,Canadian Experience Class,Canadian Experience Class
+182,2021-04-14,Program-specific,Provincial Nominee Program,266,753,2021-03-01T15:22:18Z,Provincial Nominee Program,Provincial Nominee Program
+181,2021-04-01,Program-specific,Canadian Experience Class,5000,432,2021-02-16T09:51:22Z,Canadian Experience Class,Canadian Experience Class
+180,2021-03-31,Program-specific,Provincial Nominee Program,284,778,2021-03-16T16:09:32Z,Provincial Nominee Program,Provincial Nominee Program
+179,2021-03-18,Program-specific,Canadian Experience Class,5000,449,2021-02-19T15:59:57Z,Canadian Experience Class,Canadian Experience Class
+178,2021-03-17,Program-specific,Provincial Nominee Program,183,682,2021-03-04T16:56:20Z,Provincial Nominee Program,Provincial Nominee Program
+177,2021-03-08,Program-specific,Provincial Nominee Program,671,739,2021-02-16T19:10:25Z,Provincial Nominee Program,Provincial Nominee Program
+176,2021-02-13,Program-specific,Canadian Experience Class,27332,75,2020-09-12T15:31:40Z,Canadian Experience Class,Canadian Experience Class
+175,2021-02-10,Program-specific,Provincial Nominee Program,654,720,2020-08-14T06:51:00Z,Provincial Nominee Program,Provincial Nominee Program
+174,2021-01-21,Program-specific,Canadian Experience Class,4626,454,2020-07-23T17:32:00Z,Canadian Experience Class,Canadian Experience Class
+173,2021-01-20,Program-specific,Provincial Nominee Program,374,741,2020-09-05T19:39:04Z,Provincial Nominee Program,Provincial Nominee Program
+172,2021-01-07,Program-specific,Canadian Experience Class,4750,461,2020-09-12T20:46:32Z,Canadian Experience Class,Canadian Experience Class
+171,2021-01-06,Program-specific,Provincial Nominee Program,250,813,2020-11-02T11:11:52Z,Provincial Nominee Program,Provincial Nominee Program
+170,2020-12-23,General,General (all programs),5000,468,2020-06-04T13:39:44Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+169,2020-12-09,General,General (all programs),5000,469,2020-06-04T22:26:05Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+168,2020-11-25,General,General (all programs),5000,469,2020-10-15T08:50:10Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+167,2020-11-18,General,General (all programs),5000,472,2020-10-27T06:18:11Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+166,2020-11-05,General,General (all programs),4500,478,2020-10-26T22:44:19Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+165,2020-10-14,General,General (all programs),4500,471,2020-09-01T12:11:23Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+164,2020-09-30,General,General (all programs),4200,471,2020-03-02T12:47:08Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+163,2020-09-16,General,General (all programs),4200,472,2020-03-09T13:03:40Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+162,2020-09-02,General,General (all programs),4200,475,2020-08-16T01:22:18Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+161,2020-08-20,Program-specific,Canadian Experience Class,3300,454,2020-07-27T17:05:11Z,Canadian Experience Class,Canadian Experience Class
+160,2020-08-19,Program-specific,Provincial Nominee Program,600,771,2020-07-24T11:39:23Z,Provincial Nominee Program,Provincial Nominee Program
+159,2020-08-06,Program-specific,Federal Skilled Trades,250,415,2020-06-02T09:35:31Z,Federal Skilled Trades,Federal Skilled Trades
+158,2020-08-05,General,General (all programs),3900,476,2020-07-27T01:02:47Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+157,2020-07-23,Program-specific,Canadian Experience Class,3343,445,2020-07-12T15:16:55Z,Canadian Experience Class,Canadian Experience Class
+156,2020-07-22,Program-specific,Provincial Nominee Program,557,687,2019-11-11T08:51:21Z,Provincial Nominee Program,Provincial Nominee Program
+155,2020-07-08,General,General (all programs),3900,478,2020-02-11T03:17:13Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+154,2020-06-25,Program-specific,Canadian Experience Class,3508,431,2020-04-03T12:56:32Z,Canadian Experience Class,Canadian Experience Class
+153,2020-06-24,Program-specific,Provincial Nominee Program,392,696,2020-04-23T10:39:30Z,Provincial Nominee Program,Provincial Nominee Program
+152,2020-06-11,Program-specific,Canadian Experience Class,3559,437,2020-05-25T00:31:43Z,Canadian Experience Class,Canadian Experience Class
+151,2020-06-10,Program-specific,Provincial Nominee Program,341,743,2020-04-14T13:25:51Z,Provincial Nominee Program,Provincial Nominee Program
+150,2020-05-28,Program-specific,Canadian Experience Class,3515,440,2020-03-07T10:36:59Z,Canadian Experience Class,Canadian Experience Class
+149,2020-05-27,Program-specific,Provincial Nominee Program,385,757,2020-04-27T10:19:01Z,Provincial Nominee Program,Provincial Nominee Program
+148,2020-05-14,Program-specific,Canadian Experience Class,3371,447,2019-12-23T10:01:06Z,Canadian Experience Class,Canadian Experience Class
+147,2020-05-13,Program-specific,Provincial Nominee Program,529,718,2020-03-19T12:53:21Z,Provincial Nominee Program,Provincial Nominee Program
+146,2020-04-30,Program-specific,Canadian Experience Class,3311,452,2019-10-10T19:15:28Z,Canadian Experience Class,Canadian Experience Class
+145,2020-04-29,Program-specific,Provincial Nominee Program,589,692,2020-03-11T13:46:21Z,Provincial Nominee Program,Provincial Nominee Program
+144,2020-04-16,Program-specific,Canadian Experience Class,3782,455,2020-01-20T17:37:33Z,Canadian Experience Class,Canadian Experience Class
+143,2020-04-15,Program-specific,Provincial Nominee Program,118,808,2020-03-18T10:30:55Z,Provincial Nominee Program,Provincial Nominee Program
+142,2020-04-09,Program-specific,Canadian Experience Class,3294,464,2020-01-04T12:16:45Z,Canadian Experience Class,Canadian Experience Class
+141,2020-04-09,Program-specific,Provincial Nominee Program,606,698,2019-12-18T11:29:51Z,Provincial Nominee Program,Provincial Nominee Program
+140,2020-03-23,Program-specific,Canadian Experience Class,3232,467,2019-11-25T14:00:35Z,Canadian Experience Class,Canadian Experience Class
+139,2020-03-18,Program-specific,Provincial Nominee Program,668,720,2020-03-19T02:04:06Z,Provincial Nominee Program,Provincial Nominee Program
+138,2020-03-04,General,General (all programs),3900,471,2020-02-24T06:02:57Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+137,2020-02-19,General,General (all programs),4500,470,2020-01-13T10:52:52Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+136,2020-02-05,General,General (all programs),3500,472,2020-01-30T07:36:26Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+135,2020-01-22,General,General (all programs),3400,471,2019-05-09T01:16:02Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+134,2020-01-08,General,General (all programs),3400,473,2019-12-27T13:35:09Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+133,2019-12-19,General,General (all programs),3200,469,2019-11-14T08:41:33Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+132,2019-12-11,General,General (all programs),3200,472,2019-12-06T03:03:49Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+131,2019-11-27,General,General (all programs),3600,471,2019-11-11T06:29:10Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+130,2019-11-13,General,General (all programs),3600,472,2019-10-08T10:46:01Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+129,2019-10-30,General,General (all programs),3900,475,2019-08-29T03:50:24Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+128,2019-10-16,Program-specific,Federal Skilled Trades,500,357,2019-03-04T20:36:42Z,Federal Skilled Trades,Federal Skilled Trades
+127,2019-10-02,General,General (all programs),3900,464,2019-09-20T15:05:04Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+126,2019-09-18,General,General (all programs),3600,462,2019-08-29T07:57:13Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+125,2019-09-04,General,General (all programs),3600,463,2019-08-23T13:33:34Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+124,2019-08-20,General,General (all programs),3600,457,2019-03-24T15:32:42Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+123,2019-08-12,General,General (all programs),3600,466,2019-08-06T12:14:53Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+122,2019-07-24,General,General (all programs),3600,459,2019-05-25T14:40:52Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+121,2019-07-10,General,General (all programs),3600,460,2019-06-11T00:27:18Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+120,2019-06-26,General,General (all programs),3350,462,2019-05-11T17:40:54Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+119,2019-06-12,General,General (all programs),3350,465,2019-06-06T13:51:59Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+118,2019-05-29,General,General (all programs),3350,470,2019-05-23T10:18:56Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+117,2019-05-15,Program-specific,Federal Skilled Trades,500,332,2018-08-29T08:32:03Z,Federal Skilled Trades,Federal Skilled Trades
+116,2019-05-01,General,General (all programs),3350,450,2018-11-05T12:27:07Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+115,2019-04-17,General,General (all programs),3350,451,2019-04-02T15:01:49Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+114,2019-04-03,General,General (all programs),3350,451,2019-01-09T07:35:09Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+113,2019-03-20,General,General (all programs),3350,452,2019-02-07T09:59:25Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+112,2019-03-06,General,General (all programs),3350,454,2019-02-11T17:21:27Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+111,2019-02-20,General,General (all programs),3350,457,2018-12-06T12:38:11Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+110,2019-01-30,General,General (all programs),3350,438,2018-04-26T05:00:46Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+109,2019-01-23,General,General (all programs),3900,443,2019-01-02T03:55:26Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+108,2019-01-09,General,General (all programs),3900,449,2019-01-02T11:40:53Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+107,2018-12-19,General,General (all programs),3900,439,2018-02-06T19:31:37Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+106,2018-12-12,General,General (all programs),3900,445,2018-11-28T09:51:43Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+105,2018-11-28,General,General (all programs),3900,445,2018-10-22T14:40:13Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+104,2018-11-14,General,General (all programs),3900,449,2018-09-16T12:41:42Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+103,2018-10-29,General,General (all programs),3900,442,2018-10-16T06:09:04Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+102,2018-10-15,General,General (all programs),3900,440,2018-09-18T11:06:29Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+101,2018-10-03,General,General (all programs),3900,445,2018-10-02T04:02:11Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+100,2018-09-24,Program-specific,Federal Skilled Trades,400,284,2018-02-18T12:31:16Z,Federal Skilled Trades,Federal Skilled Trades
+99,2018-09-19,General,General (all programs),3500,441,2018-09-06T10:28:45Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+98,2018-09-05,General,General (all programs),3900,440,2018-04-29T14:28:34Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+97,2018-08-22,General,General (all programs),3750,440,2018-02-21T11:28:03Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+96,2018-08-08,General,General (all programs),3750,440,2018-01-31T00:06:40Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+95,2018-07-25,General,General (all programs),3750,441,2017-12-31T12:14:21Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+94,2018-07-11,General,General (all programs),3750,442,2018-06-26T13:18:55Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+93,2018-06-25,General,General (all programs),3750,442,2018-01-28T21:06:11Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+92,2018-06-13,General,General (all programs),3750,451,2017-07-21T07:01:28Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+91b,2018-05-30,Program-specific,Provincial Nominee Program,200,902,2018-03-23T05:38:02Z,Provincial Nominee Program,Provincial Nominee Program
+91a,2018-05-30,Program-specific,Federal Skilled Trades,500,288,2017-06-07T20:11:13Z,Federal Skilled Trades,Federal Skilled Trades
+90,2018-05-23,General,General (all programs),3500,440,2017-12-30T06:39:40Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+89,2018-05-09,General,General (all programs),3500,441,2017-12-12T01:51:38Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+88,2018-04-25,General,General (all programs),3500,441,2017-12-08T10:25:33Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+87,2018-04-11,General,General (all programs),3500,444,2018-03-26T08:25:40Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+86,2018-03-26,General,General (all programs),3000,446,2018-02-23T08:06:19Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+85,2018-03-14,General,General (all programs),3000,456,2018-03-03T02:12:11Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+84,2018-02-21,General,General (all programs),3000,442,2018-02-11T17:03:32Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+83,2018-02-07,General,General (all programs),3000,442,2017-05-29T07:01:15Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+82,2018-01-24,General,General (all programs),2750,444,2018-01-17T12:33:00Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+81,2018-01-10,General,General (all programs),2750,446,2017-11-18T06:30:42Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+80,2017-12-20,General,General (all programs),2750,446,2017-10-02T14:56:53Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+79,2017-12-06,General,General (all programs),2750,452,2017-11-16T04:20:20Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+78,2017-11-15,General,General (all programs),2750,439,2017-10-19T12:02:28Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+77,2017-11-08,General,General (all programs),2000,458,2017-10-23T15:58:27Z,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+76,2017-11-01,Program-specific,Federal Skilled Trades,505,241,,Federal Skilled Trades,Federal Skilled Trades
+75,2017-11-01,Program-specific,Provincial Nominee Program,290,673,,Provincial Nominee Program,Provincial Nominee Program
+74,2017-10-18,General,General (all programs),2757,436,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+73,2017-10-04,General,General (all programs),2801,438,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+72,2017-09-20,General,General (all programs),2871,433,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+71,2017-09-06,General,General (all programs),2772,435,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+70,2017-08-23,General,General (all programs),3035,434,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+69,2017-08-09,General,General (all programs),2991,433,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+68,2017-08-02,General,General (all programs),3264,441,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+67,2017-07-12,General,General (all programs),3202,440,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+66,2017-06-28,General,General (all programs),3409,449,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+65,2017-05-31,General,General (all programs),3877,413,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+64,2017-05-26,Program-specific,Federal Skilled Trades,400,199,,Federal Skilled Trades,Federal Skilled Trades
+63,2017-05-26,Program-specific,Provincial Nominee Program,143,775,,Provincial Nominee Program,Provincial Nominee Program
+62,2017-05-17,General,General (all programs),3687,415,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+61,2017-05-04,General,General (all programs),3796,423,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+60,2017-04-19,General,General (all programs),3665,415,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+59,2017-04-12,General,General (all programs),3923,423,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+58,2017-04-05,General,General (all programs),3753,431,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+57,2017-03-24,General,General (all programs),3749,441,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+56,2017-03-01,General,General (all programs),3884,434,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+55,2017-02-22,General,General (all programs),3611,441,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+54,2017-02-08,General,General (all programs),3644,447,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+53,2017-01-25,General,General (all programs),3508,453,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+52,2017-01-11,General,General (all programs),3334,459,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+51,2017-01-04,General,General (all programs),2902,468,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+50,2016-12-22,General,General (all programs),2878,475,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+49,2016-12-16,General,General (all programs),1936,497,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+48,2016-11-30,Program-specific,Provincial Nominee Program,559,786,,Provincial Nominee Program,Provincial Nominee Program
+47,2016-11-16,General,General (all programs),2427,470,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+46,2016-11-02,General,General (all programs),2080,472,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+45,2016-10-19,General,General (all programs),1804,475,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+44,2016-10-12,General,General (all programs),1518,484,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+43,2016-09-21,General,General (all programs),1288,483,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+42,2016-09-07,General,General (all programs),1000,491,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+41,2016-08-24,General,General (all programs),750,538,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+40,2016-08-10,General,General (all programs),754,490,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+39,2016-07-27,General,General (all programs),755,488,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+38,2016-07-13,General,General (all programs),747,482,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+37,2016-06-29,General,General (all programs),773,482,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+36,2016-06-15,General,General (all programs),752,488,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+35,2016-06-01,General,General (all programs),762,483,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+34,2016-05-18,General,General (all programs),763,484,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+33,2016-05-06,General,General (all programs),799,534,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+32,2016-04-20,General,General (all programs),1018,468,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+31,2016-04-06,General,General (all programs),954,470,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+30,2016-03-23,General,General (all programs),1014,470,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+29,2016-03-09,General,General (all programs),1013,473,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+28,2016-02-24,General,General (all programs),1484,453,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+27,2016-02-10,General,General (all programs),1505,459,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+26,2016-01-27,General,General (all programs),1468,457,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+25,2016-01-13,General,General (all programs),1518,453,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+24,2016-01-06,General,General (all programs),1463,461,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+23,2015-12-18,General,General (all programs),1503,460,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+22,2015-12-04,General,General (all programs),1451,461,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+21,2015-11-27,General,General (all programs),1559,472,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+20,2015-11-13,General,General (all programs),1506,484,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+19,2015-10-23,General,General (all programs),1502,489,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+18,2015-10-02,General,General (all programs),1530,450,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+17,2015-09-18,General,General (all programs),1545,450,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+16,2015-09-08,General,General (all programs),1517,459,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+15,2015-08-21,General,General (all programs),1523,456,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+14,2015-08-07,General,General (all programs),1402,471,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+13,2015-07-17,General,General (all programs),1581,451,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+12,2015-07-10,General,General (all programs),1516,463,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+11,2015-06-26,General,General (all programs),1575,469,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+10,2015-06-12,General,General (all programs),1501,482,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+9,2015-05-22,General,General (all programs),1361,755,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+8,2015-04-17,General,General (all programs),715,453,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+7,2015-04-10,General,General (all programs),925,469,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+6,2015-03-27,General,General (all programs),1637,453,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+5,2015-03-20,General,General (all programs),1620,481,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+4,2015-02-27,General,General (all programs),1187,735,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+3,2015-02-20,Program-specific,Canadian Experience Class,849,808,,Canadian Experience Class,Canadian Experience Class
+2,2015-02-07,General,General (all programs),779,818,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"
+1,2015-01-31,General,General (all programs),779,886,,No Program Specified,"Federal Skilled Worker, Canadian Experience Class, Federal Skilled Trades and Provincial Nominee Program"

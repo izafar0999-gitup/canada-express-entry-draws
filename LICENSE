@@ -1,0 +1,30 @@
+Canada Express Entry Draws Dataset (CRS Cut-offs and Invitations)
+Maintained by crscalcu.ca (https://crscalcu.ca/)
+
+1. Source data
+
+The underlying data (round numbers, dates, round names, invitations, CRS cut-offs,
+tie-breaking rules and CRS score distributions) is published by Immigration,
+Refugees and Citizenship Canada (IRCC) at
+https://www.canada.ca/content/dam/ircc/documents/json/ee_rounds_123_en.json
+and is used under the Open Government Licence – Canada:
+https://open.canada.ca/en/open-government-licence-canada
+
+Contains information licensed under the Open Government Licence – Canada.
+
+2. Compilation
+
+The compilation, cleaning, normalized fields, file structure, scripts and
+documentation are Copyright (c) 2026 crscalcu.ca and are licensed under the
+Creative Commons Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit to crscalcu.ca with a link to
+https://crscalcu.ca/, indicate if changes were made, and also keep the IRCC
+attribution required by the Open Government Licence – Canada.
+
+3. No endorsement
+
+crscalcu.ca is not affiliated with or endorsed by IRCC or the Government of
+Canada. The data is provided as is, without warranty of any kind.
